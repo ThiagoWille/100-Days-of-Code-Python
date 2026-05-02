@@ -11,8 +11,8 @@ Neste dia, o foco foi sair da programação linear para criar sistemas que reage
 
   - Operadores de Comparação: Uso de >= (maior ou igual), == (igualdade) e != (diferente) para validar dados de entrada.
 
-  - Operadores Lógicos: Aplicação de and, or e not para combinar condições e criar regras de negócio mais complexas (como a verificação de idade e preços na montanha-russa)[cite: 2].
+  - Operadores Lógicos: Aplicação de and, or e not para combinar condições e criar regras de negócio mais complexas (como a verificação de idade e preços na montanha-russa).
 
   - Operador Módulo (%): Utilizado para verificar restos de divisão, essencial para lógica de números pares/ímpares.
 
-  - Tratamento de Strings: Uso de .upper() (e anteriormente .lower()) para garantir que o sistema aceite entradas do usuário independente da capitalização[cite: 2].
+  - Tratamento de Strings: Uso de .upper() (e anteriormente .lower()) para garantir que o sistema aceite entradas do usuário independente da capitalização.
