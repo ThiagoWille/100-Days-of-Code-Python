@@ -1,7 +1,7 @@
 🐍 **Day 4: Randomização e Listas em Python**
 Este repositório contém os projetos e estudos realizados durante o quarto dia do desafio "100 Days of Code", focado no aprendizado de geração de dados aleatórios e manipulação de estruturas de dados.
 
-- 🛠️ **Conceitos Praticados**
+🛠️ **Conceitos Praticados**
   - **Modularização:** Separação de constantes (ASCII Art) em módulos externos para manter o código principal limpo.
   - **Geração de Números Aleatórios:** Uso das funções randint(), random() e uniform() do módulo random.
   - **Estruturas de Dados:** Manipulação de listas simples e Nested Lists (listas aninhadas), incluindo métodos como .append() e .extend().
