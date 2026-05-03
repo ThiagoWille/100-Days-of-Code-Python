@@ -1,0 +1,1 @@
+my_fv_number = 3.1415
