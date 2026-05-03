@@ -10,8 +10,8 @@ Este repositório contém os projetos e estudos realizados durante o quarto dia 
 🎮 **Projeto Principal: Rock Paper Scissors (Pedra, Papel e Tesoura)**
 Um jogo interativo desenvolvido para consolidar o uso de condicionais aninhadas e interações com módulos externos.  
 
-**Funcionalidades:**
-- Escolha do usuário via input numérico.  
-- Seleção aleatória da jogada do computador através de random.randint(0, 2).  
-- Validação de dados para garantir que o usuário insira apenas as opções permitidas.  
-- Interface visual utilizando artes em ASCII para representar cada jogada.
+- **Funcionalidades:**
+  - Escolha do usuário via input numérico.  
+  - Seleção aleatória da jogada do computador através de random.randint(0, 2).
+  - Validação de dados para garantir que o usuário insira apenas as opções permitidas.
+  - Interface visual utilizando artes em ASCII para representar cada jogada.
