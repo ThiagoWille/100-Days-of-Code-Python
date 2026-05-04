@@ -19,7 +19,8 @@ Um jogo de aventura em texto focado em estruturas condicionais complexas (`if/el
 - [x] Dia 2: Calculadora de Gorjetas
 - [x] Dia 3: Ilha do Tesouro (Desafio de Lógica)
 - [x] Dia 4: Pedra, Papel e Tesoura
-- [ ] Dia 5: Em breve...
+- [ ] Dia 5: Gerador de Senhas Aleatórias
+- [ ] Dia 6: Em breve...
 
 ---
 *Estudante de ADS/Full Stack Python em transição de carreira, focado em dominar o ecossistema Python para desenvolver soluções de software completas, do banco de dados ao front-end.*
