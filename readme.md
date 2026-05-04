@@ -19,7 +19,7 @@ Um jogo de aventura em texto focado em estruturas condicionais complexas (`if/el
 - [x] Dia 2: Calculadora de Gorjetas
 - [x] Dia 3: Ilha do Tesouro (Desafio de Lógica)
 - [x] Dia 4: Pedra, Papel e Tesoura
-- [ ] Dia 5: Gerador de Senhas Aleatórias
+- [x] Dia 5: Gerador de Senhas Aleatórias
 - [ ] Dia 6: Em breve...
 
 ---
