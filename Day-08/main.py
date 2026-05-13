@@ -4,39 +4,20 @@ import logo_caesar
 
 print(logo_caesar.logo, "\n")
 
-def encrypt(code_text, shift_int):
-    cipher_text = ""
-
-    for letter in code_text:
-        if letter in alphabet:
-            shifted_position = (alphabet.index(letter) + shift_int)
-            shifted_position %= len(alphabet)
-            cipher_text += alphabet[shifted_position]
-        else:
-            cipher_text += letter
-        
-    
-    print(f"Encoded message: {cipher_text}")
-
-def decrypt(uncode_text, shift_int):
+def caesar(original_text, shift_amount, encode_or_decode):
     output_text = ""
-
-    for letter in uncode_text:
+    # Se for decode, o shift vira negativo. Se for encode, continua positivo.
+    if encode_or_decode == "decode":
+        shift_amount *= -1
+    
+    for letter in original_text:
         if letter in alphabet:
-            shifted_position = (alphabet.index(letter) - shift_int)
+            shifted_position = alphabet.index(letter) + shift_amount
             shifted_position %= len(alphabet)
             output_text += alphabet[shifted_position]
         else:
             output_text += letter
-
-    print(f"Decoded message: {output_text}")
-
-
-def caesar(encode_or_decode, original_text, shift_amount):
-    if encode_or_decode == "encode":
-        encrypt(code_text=original_text, shift_int=shift_amount)
-    else:
-        decrypt(uncode_text=original_text, shift_int=shift_amount)
+    print(f"Here is the {encode_or_decode}d result: {output_text}")
 
 end_program = False
 
