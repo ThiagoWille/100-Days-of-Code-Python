@@ -5,9 +5,6 @@ O sétimo dia foi dedicado à lógica de loops complexos e controle de fluxo, ut
 ## 🗺️ Planejamento Lógico
 Antes da codificação, a estrutura do jogo foi mapeada através de um fluxograma para garantir que todos os cenários (vitória, derrota, acerto e erro) fossem cobertos:
 
-![Fluxograma do Jogo](Fluxograma_HangMan.png)
-*Fluxograma detalhando o ciclo de vida do jogo, desde a escolha da palavra até a condição de parada.*
-
 ## 🧠 Conceitos Aplicados
 * **Gerenciamento de Estados**: Uso da variável `game_over` para controlar a continuidade do loop `while`.
 * **Manipulação de Listas e Strings**: Criação dinâmica do `display` para mostrar letras adivinhadas e espaços vazios (`_`).
